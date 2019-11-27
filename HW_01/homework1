@@ -1,0 +1,19 @@
+Homework 1 (due date: 5th September 2019)
+
+1. Pick 5 stocks from US market and write a Python code to load historical between 2009-2019 data from Yahoo Finance. Each of students must not choose the same set of stocks.
+
+2. Plot historical prices, simple daily returns, and log daily returns of 5 stocks, and describe what you have observed.
+
+3. Check how many days in a year in the historical data and plot annualize returns.
+
+4. Compute covariances and correlation efficients of daily returns of 5 stocks and show as a matrix table and a heat map. Describe what you have observed.
+
+5. Plot histograms of daily return, calculate mean, variance, skewness, kurtosis, and verify if the distribution is normal. Find out what is a good method to verify by yourself.
+
+6. Implement example 2.4 on page 53 with your 5 stocks. Find the upper bound and lower bound of prices if T = 5, 21, 63, 250 days. Analyze your results. What can you observe and conclude?
+
+7. Find historical volatility from your daily historical data and annualize it.
+
+8. Compute range-based volatility by Parkinson, and Garman and Klass.
+
+9. Compute EWMA volatility using lambda=0.94.
